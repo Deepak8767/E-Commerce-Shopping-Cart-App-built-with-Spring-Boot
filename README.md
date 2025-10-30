@@ -7,37 +7,24 @@ A full-stack E-Commerce web application built using Spring Boot, providing featu
 🔧 Tech Stack
 
 Backend: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
-
-Database: MySQL (or PostgreSQL)
-
-Frontend: (e.g. Thymeleaf / React / Angular — specify what you used)
-
+Database: MySQL
+Frontend: Thymeleaf
 Build Tool: Maven or Gradle
-
-API Testing: Postman / Swagger
+API Testing: Postman
 
 🚀 Features
 
 User registration & login (secured with Spring Security)
-
 Product listing & detailed product pages
-
 Add to cart, update, and remove items
-
 Order checkout & payment simulation
-
 Admin dashboard for managing products and users
-
 RESTful API for integration
 
 💡 Future Enhancements
 
-Integrate real payment gateway (e.g., Razorpay / Stripe)
-
 Add product reviews & ratings
-
 Implement inventory management
-
 Email notifications for order confirmation
 
 📸 Optional (if you have screenshots)
@@ -56,6 +43,5 @@ Configure application.properties with your MySQL credentials.
 Run the application using
 
 mvn spring-boot:run
-
 
 Access the app at http://localhost:8080
