@@ -7,18 +7,27 @@ A full-stack E-Commerce web application built using Spring Boot, providing featu
 🔧 Tech Stack
 
 Backend: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+
 Database: MySQL
+
 Frontend: Thymeleaf
+
 Build Tool: Maven or Gradle
+
 API Testing: Postman
 
 🚀 Features
 
 User registration & login (secured with Spring Security)
+
 Product listing & detailed product pages
+
 Add to cart, update, and remove items
+
 Order checkout & payment simulation
+
 Admin dashboard for managing products and users
+
 RESTful API for integration
 
 💡 Future Enhancements
