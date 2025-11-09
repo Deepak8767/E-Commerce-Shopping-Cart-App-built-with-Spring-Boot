@@ -7,26 +7,26 @@ This project allows users to browse products, add them to a cart, and place orde
 
 # 🚀 Features
 # 👤 User Features
-User registration and login (secured with Spring Security & BCrypt)
-View products by category
-Add or remove items from the cart
-Place orders with address details
-View order history
+* User registration and login (secured with Spring Security & BCrypt)
+* View products by category
+* Add or remove items from the cart
+* Place orders with address details
+* View order history
 
 # 🧑‍💼 Admin Features
-Admin login with role-based access
-Manage categories (add, update, delete)
-Manage products (CRUD operations)
-View all orders and user details
+* Admin login with role-based access
+* Manage categories (add, update, delete)
+* Manage products (CRUD operations)
+* View all orders and user details
 
 # 🧩 Tech Stack
-Layer	Technology
-Backend	Spring Boot, Spring MVC
-Security	Spring Security (Authentication & Authorization)
-Database	MySQL + Spring Data JPA (Hibernate)
-Frontend	JSP, HTML, CSS, Bootstrap
-Build Tool	Maven
-IDE	Eclipse / IntelliJ IDEA
+* Layer	Technology
+* Backend	Spring Boot, Spring MVC
+* Security	Spring Security (Authentication & Authorization)
+* Database	MySQL + Spring Data JPA (Hibernate)
+* Frontend	JSP, HTML, CSS, Bootstrap
+* Build Tool	Maven
+* IDE	Eclipse / IntelliJ IDEA
 
 # 🗂️ Project Structure
 shping_cart/
@@ -64,21 +64,21 @@ shping_cart/
 
 # ⚙️ Configuration
 # Database Setup
-Create a database in MySQL:
-CREATE DATABASE shopping_cart;
+* Create a database in MySQL:
+* CREATE DATABASE shopping_cart;
 
 # Update your src/main/resources/application.properties file:
-spring.datasource.url=jdbc:mysql://localhost:3306/shopping_cart
-spring.datasource.username=root
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+* spring.datasource.url=jdbc:mysql://localhost:3306/shopping_cart
+* spring.datasource.username=root
+* spring.datasource.password=your_password
+* spring.jpa.hibernate.ddl-auto=update
+* spring.jpa.show-sql=true
+* spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
 # ▶️ Run the Application
-Clone the repository
-git clone https://github.com/yourusername/shopping-cart.git
-cd shopping-cart
+* Clone the repository
+* git clone https://github.com/yourusername/shopping-cart.git
+* cd shopping-cart
 
 # Build the project
 mvn clean install
@@ -90,9 +90,9 @@ mvn spring-boot:run
 http://localhost:8780/
 
 # 🔐 Default Roles
-Role	Description
-USER	Regular customer
-ADMIN	Access to admin panel
+* Role	Description
+* USER	Regular customer
+* ADMIN	Access to admin panel
 
 # 🖼️ Screenshots
 Login Page
