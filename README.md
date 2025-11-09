@@ -31,20 +31,35 @@ IDE	Eclipse / IntelliJ IDEA
 # 🗂️ Project Structure
 shping_cart/
  ├── src/
+ 
  │   ├── main/
+ 
  │   │   ├── java/com/ecom/
+ 
  │   │   │   ├── controller/       # Controllers for Admin, User, and Home
+ 
  │   │   │   ├── model/            # Entity classes (Product, Cart, Category, etc.)
+ 
  │   │   │   ├── repository/       # JPA Repositories
+ 
  │   │   │   ├── service/          # Business logic layer
+ 
  │   │   │   └── config/           # Spring Security configuration
+ 
  │   │   └── resources/
+ 
  │   │       ├── static/           # CSS, JS, images
+ 
  │   │       ├── templates/        # JSP/HTML templates
+ 
  │   │       └── application.properties
+ 
  │   └── test/
+ 
  │       └── java/com/ecom/        # Unit tests
+
  ├── pom.xml                       # Maven dependencies
+ 
  └── README.md
 
 # ⚙️ Configuration
