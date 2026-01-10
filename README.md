@@ -114,10 +114,15 @@ http://localhost:8780/
 
 # Admin Dashboard
 <img width="1885" height="926" alt="Screenshot 2026-01-10 082145" src="https://github.com/user-attachments/assets/393b26c1-caee-4f89-9699-1b1d2541937a" />
+<br><br>
 <img width="1892" height="917" alt="Screenshot 2026-01-10 082207" src="https://github.com/user-attachments/assets/4c5843f4-597c-4dc6-8f08-a47ae130c410" />
+<br><br>
 <img width="1886" height="919" alt="Screenshot 2026-01-10 082223" src="https://github.com/user-attachments/assets/6621f931-ddba-4aa0-a07b-21d8e264ea34" />
+<br><br>
 <img width="1890" height="912" alt="Screenshot 2026-01-10 082241" src="https://github.com/user-attachments/assets/137b18f6-67c9-4743-aa8f-0c2879f5bb4c" />
+<br><br>
 <img width="1893" height="897" alt="Screenshot 2026-01-10 082318" src="https://github.com/user-attachments/assets/dc3a69e8-bffa-48cd-acec-4e10a3341c27" />
+<br><br>
 <img width="1885" height="714" alt="Screenshot 2026-01-10 082457" src="https://github.com/user-attachments/assets/8674a661-4d6b-47aa-ac40-30f17b97d94d" />
 
 # 🤝 Contributing
